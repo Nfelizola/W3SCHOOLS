@@ -1,0 +1,32 @@
+/* que tal colocar aqui o reset padrão, apenas para não perder o costume */
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(11, 96, 181);
+}
+
+.flex-containerinverso {
+  display: flex;
+  flex-direction: column-reverse;
+  background-color: rgb(11, 96, 181);
+}
+
+
+/* Observe o seletor abaixo ele está mostrando que para toda a Div que estiver dentro do seletor flex-container obedecerá ao estilo abaixo
+ele só afetará as divs que estiverem dentro do container */
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 8px;
+  padding: 10px;
+  font-size: 30px;
+}
+
+.flex-containerinverso > div {
+  background-color: #f1f1f1;
+  margin: 8px;
+  padding: 10px;
+  font-size: 30px;
+}
+/* Porém por enquanto eu não fiz nenhuma programação especial no meu flexbox
+ele só afetará as divs que estiverem dentro do container */
