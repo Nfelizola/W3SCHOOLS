@@ -10,3 +10,8 @@ Eu optei pelo seguinte caminho eu criei uma pasta chama W3SCHOOLS em meu COMPUTA
 PORTANTO EU ACABO TRABALHANDO EM UM ÚNICO REPOSITÓRIO AONDE EU VOU NAVEGANDO PELOS EXEMPLOS DO FLEXBOX.
 
 
+
+
+LINK PARA PÁGINA
+
+[CLIQUE AQUI](https://nfelizola.github.io/W3SCHOOLS/CSSFLEXBOX/index.html)
